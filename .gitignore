@@ -135,6 +135,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+vehiculos_env/
 .env
 .envrc
 .venv
